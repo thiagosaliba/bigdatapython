@@ -1,0 +1,201 @@
+id_cliente,nome,idade,gênero,data_primeira_compra,total_gasto,total_compras,produto_favorito
+1,Felipe Fogaça,49,M,2023-08-22,122.23,10,Cerveja Weiss
+2,Maria Costela,22,M,2023-02-23,146.71,19,Cerveja IPA/NOVA LIMA
+3,Catarina Farias,50,M,2023-06-04,124.8,14,Cerveja Lager
+4,Isabella Dias,51,M,2023-03-05,59.29,3,Cerveja Weiss
+5,Emilly Nascimento,33,F,2023-11-13,95.57,17,Cerveja Pilsen BARRIL 1
+6,Guilherme Cardoso,31,M,2023-06-04,50.22,4,Cerveja Weiss
+7,Miguel Brito,42,F,2023-12-29,93.66,14,Cerveja IPA/NOVA LIMA
+8,Leonardo Brito,21,F,2023-08-08,99.49,9,Cerveja Lager
+9,Maya Pimenta,23,F,2023-08-02,97.37,13,Cerveja Pilsen BARRIL 1
+10,Alexia Pastor,35,M,2023-11-30,108.35,6,Cerveja IPA/NOVA LIMA
+11,Ian Alves,24,F,2023-02-27,128.53,20,Cerveja Lager
+12,Valentim Silva,51,F,2023-05-06,85.22,19,Cerveja Lager
+13,Ana Carolina Borges,36,F,2023-04-30,64.7,17,Cerveja Lager
+14,Cauã Gomes,26,F,2023-04-27,94.68,10,Cerveja Pilsen BARRIL 1
+15,Ana Sophia Abreu,51,M,2023-11-18,112.95,3,Cerveja IPA/NOVA LIMA
+16,Manuella Câmara,37,M,2023-12-27,106.63,12,Cerveja Lager
+17,Isaac da Rocha,44,F,2023-04-06,95.88,10,Cerveja IPA/NOVA LIMA
+18,Manuela Cirino,47,F,2023-11-08,119.86,16,Cerveja Pilsen BARRIL 1
+19,Theodoro Nunes,26,F,2023-04-12,91.41,8,Cerveja Stout
+20,Isabella Moura,47,M,2023-09-14,72.29,16,Cerveja Stout
+21,Heloísa Sousa,50,F,2023-05-06,130.3,6,Cerveja Stout
+22,Giovanna Cavalcante,40,F,2023-01-21,67.94,14,Cerveja Weiss
+23,Benicio Casa Grande,43,M,2023-07-30,115.55,3,Cerveja Stout
+24,Nathan da Luz,43,M,2023-03-13,137.38,18,Cerveja IPA/NOVA LIMA
+25,Hadassa Duarte,35,F,2023-07-09,121.05,1,Cerveja Stout
+26,Stephany Sampaio,47,F,2023-04-26,130.06,6,Cerveja Stout
+27,Otto Pacheco,29,F,2023-05-18,72.56,19,Cerveja Lager
+28,João Lucas da Cruz,35,F,2023-10-04,102.12,6,Cerveja Stout
+29,Dom Siqueira,48,F,2023-08-21,105.24,6,Cerveja Pilsen BARRIL 1
+30,Davi Lucca Mendes,23,M,2023-01-05,117.0,2,Cerveja Pilsen BARRIL 1
+31,Lorena Vasconcelos,19,M,2023-03-10,87.68,1,Cerveja Stout
+32,Gabriel Cunha,22,F,2023-03-27,101.69,16,Cerveja Pilsen BARRIL 1
+33,Mariah Carvalho,47,F,2023-08-04,84.45,3,Cerveja Stout
+34,Guilherme Porto,22,M,2023-09-15,57.13,10,Cerveja Weiss
+35,João Pedro Peixoto,18,F,2023-02-25,58.15,9,Cerveja Pilsen BARRIL 1
+36,Vinicius da Luz,43,M,2023-01-01,92.57,11,Cerveja Weiss
+37,Samuel da Mata,40,M,2023-07-16,119.68,7,Cerveja Weiss
+38,Maria Eduarda Câmara,50,M,2023-07-07,88.01,16,Cerveja Lager
+39,Ester Sampaio,31,F,2023-05-11,106.21,20,Cerveja Lager
+40,Danilo Jesus,41,M,2023-10-03,113.53,6,Cerveja Stout
+41,Ravi Lucca Sales,26,F,2023-01-11,91.76,15,Cerveja Pilsen BARRIL 1
+42,Yago Garcia,44,M,2023-10-31,114.27,4,Cerveja IPA/NOVA LIMA
+43,Valentina Almeida,35,F,2023-01-22,147.35,1,Cerveja IPA/NOVA LIMA
+44,Benjamin Casa Grande,37,F,2023-03-27,110.87,12,Cerveja Weiss
+45,Joaquim Cirino,51,M,2023-09-03,135.92,20,Cerveja Pilsen BARRIL 1
+46,Gustavo Henrique Costela,33,M,2023-07-19,133.23,17,Cerveja Weiss
+47,Rafaela Garcia,51,F,2023-07-25,114.63,6,Cerveja Lager
+48,Zoe Monteiro,30,F,2023-01-12,124.7,5,Cerveja IPA/NOVA LIMA
+49,Igor Cassiano,41,F,2023-12-27,51.83,17,Cerveja Lager
+50,Leonardo Pastor,35,F,2023-04-11,111.58,8,Cerveja Pilsen BARRIL 1
+51,Davi Lucca da Cunha,25,F,2023-11-29,91.93,9,Cerveja IPA/NOVA LIMA
+52,Vitória da Mota,32,F,2023-02-02,96.18,13,Cerveja IPA/NOVA LIMA
+53,Beatriz da Rocha,45,F,2023-03-25,141.86,16,Cerveja IPA/NOVA LIMA
+54,Theodoro Câmara,19,M,2023-06-21,103.43,18,Cerveja IPA/NOVA LIMA
+55,Henrique da Conceição,44,M,2023-07-23,93.68,8,Cerveja Stout
+56,Arthur Gabriel Pires,51,F,2023-09-23,131.86,19,Cerveja Stout
+57,Isaque Aragão,36,F,2023-10-01,97.69,5,Cerveja Lager
+58,Manuela Nascimento,42,M,2023-04-07,78.59,10,Cerveja IPA/NOVA LIMA
+59,José Casa Grande,49,M,2023-12-16,86.27,3,Cerveja Stout
+60,Sofia Siqueira,30,M,2023-12-07,147.49,8,Cerveja IPA/NOVA LIMA
+61,Raul Lima,22,M,2023-07-17,57.86,14,Cerveja IPA/NOVA LIMA
+62,Ana Vitória Cassiano,19,F,2023-04-16,104.45,3,Cerveja IPA/NOVA LIMA
+63,Bella Sampaio,35,F,2023-04-09,95.06,13,Cerveja Pilsen BARRIL 1
+64,Valentina da Cruz,41,F,2023-06-03,68.84,20,Cerveja Weiss
+65,Helena Mendonça,44,F,2023-01-24,114.52,9,Cerveja Weiss
+66,Maria Vitória Ramos,40,F,2023-08-23,131.48,3,Cerveja Pilsen BARRIL 1
+67,Rafaela Lima,18,M,2023-03-15,54.65,9,Cerveja Lager
+68,Kevin Andrade,37,F,2023-10-04,118.05,16,Cerveja Pilsen BARRIL 1
+69,Davi Lucca Lima,36,M,2023-10-26,69.84,3,Cerveja IPA/NOVA LIMA
+70,Vitória Ramos,31,F,2023-10-03,61.79,19,Cerveja Weiss
+71,Ana Laura Correia,49,F,2023-12-16,60.58,3,Cerveja Lager
+72,Brenda Pires,38,M,2023-12-02,144.15,16,Cerveja Stout
+73,Maria Cecília Andrade,47,M,2023-03-07,96.06,13,Cerveja Lager
+74,Ravi Martins,39,M,2023-04-08,67.43,13,Cerveja Stout
+75,Esther da Paz,51,F,2023-06-19,63.84,3,Cerveja Weiss
+76,Noah da Costa,55,M,2023-12-24,52.64,9,Cerveja IPA/NOVA LIMA
+77,Larissa Fonseca,43,M,2023-02-18,92.69,1,Cerveja IPA/NOVA LIMA
+78,Thales Siqueira,35,F,2023-01-17,98.95,18,Cerveja Lager
+79,Ágatha Pereira,29,M,2023-06-22,51.73,18,Cerveja Weiss
+80,Kevin Duarte,22,M,2023-10-26,53.31,14,Cerveja Stout
+81,Eduardo Cirino,21,F,2023-12-07,140.88,8,Cerveja Weiss
+82,Caio Pastor,43,M,2023-11-07,86.28,1,Cerveja IPA/NOVA LIMA
+83,Kaique Moura,41,M,2023-11-09,147.84,4,Cerveja IPA/NOVA LIMA
+84,Lara Correia,30,F,2023-10-19,100.16,3,Cerveja Weiss
+85,Ana Carolina Correia,32,M,2023-03-22,50.68,1,Cerveja Lager
+86,Yuri da Costa,51,M,2023-07-28,100.57,6,Cerveja Pilsen BARRIL 1
+87,Bryan Almeida,32,F,2023-05-05,91.76,19,Cerveja IPA/NOVA LIMA
+88,Gabrielly Freitas,33,F,2023-12-10,60.47,1,Cerveja Weiss
+89,Samuel Cirino,23,M,2023-08-19,128.51,12,Cerveja Lager
+90,Maria Flor Araújo,53,M,2023-01-18,60.7,19,Cerveja Stout
+91,Cauã Ferreira,21,M,2023-03-11,58.45,6,Cerveja Lager
+92,João Felipe Farias,20,M,2023-05-03,122.99,18,Cerveja IPA/NOVA LIMA
+93,Ana Lívia Cunha,27,F,2023-06-24,69.84,14,Cerveja Stout
+94,Gustavo Henrique Caldeira,47,M,2023-12-30,147.45,3,Cerveja Weiss
+95,Valentina Machado,38,M,2023-11-16,111.98,1,Cerveja IPA/NOVA LIMA
+96,Bernardo Melo,24,F,2023-03-20,129.13,6,Cerveja Weiss
+97,Ana Cecília Rios,27,F,2023-01-03,141.14,6,Cerveja Pilsen BARRIL 1
+98,Lara da Mota,27,F,2023-09-12,134.76,20,Cerveja Weiss
+99,Renan Correia,48,F,2023-03-25,128.21,1,Cerveja Weiss
+100,Maria Clara Nascimento,38,F,2023-04-13,95.51,18,Cerveja Pilsen BARRIL 1
+101,Sabrina Teixeira,45,M,2023-06-23,139.79,9,Cerveja Stout
+102,Liam Gonçalves,19,F,2023-08-13,90.5,13,Cerveja Weiss
+103,Esther Machado,31,F,2023-03-03,64.1,10,Cerveja Pilsen BARRIL 1
+104,Laura Pinto,45,M,2023-11-06,112.56,1,Cerveja IPA/NOVA LIMA
+105,Thales Castro,30,M,2023-04-05,143.02,14,Cerveja Stout
+106,Kevin Siqueira,31,F,2023-12-03,132.45,20,Cerveja Lager
+107,Isis Pastor,34,F,2023-05-09,142.9,14,Cerveja Weiss
+108,Yago Aragão,44,F,2023-02-15,118.42,1,Cerveja Lager
+109,Zoe da Mata,29,F,2023-01-22,131.99,13,Cerveja Stout
+110,Allana Vieira,40,M,2023-07-22,85.69,6,Cerveja Lager
+111,Diogo Novaes,54,M,2023-03-31,140.33,6,Cerveja Weiss
+112,Sabrina Montenegro,55,F,2023-01-10,122.58,7,Cerveja Lager
+113,Eduardo Mendes,40,M,2023-05-24,139.68,13,Cerveja Weiss
+114,Ester da Cunha,55,F,2023-05-10,91.11,14,Cerveja Pilsen BARRIL 1
+115,Pedro Lucas Cassiano,47,M,2023-12-01,124.06,16,Cerveja Pilsen BARRIL 1
+116,João Guilherme Silva,52,M,2023-02-27,58.1,3,Cerveja Weiss
+117,Rafael Souza,40,F,2023-12-04,135.2,10,Cerveja Lager
+118,Camila Oliveira,54,M,2023-11-20,75.31,5,Cerveja IPA/NOVA LIMA
+119,Clarice Correia,51,M,2023-04-16,112.29,11,Cerveja Pilsen BARRIL 1
+120,Eduardo da Cruz,40,F,2023-11-29,128.02,5,Cerveja Lager
+121,Carlos Eduardo Oliveira,53,M,2023-08-13,136.8,9,Cerveja Stout
+122,Thales Mendes,21,F,2023-12-14,102.22,4,Cerveja Lager
+123,Caio Marques,20,F,2023-05-14,138.65,19,Cerveja IPA/NOVA LIMA
+124,Ravi Lucca Ramos,40,M,2023-12-14,68.49,15,Cerveja Pilsen BARRIL 1
+125,Amanda Cunha,18,M,2023-09-13,50.11,2,Cerveja Lager
+126,Bento Teixeira,31,F,2023-01-03,71.87,14,Cerveja IPA/NOVA LIMA
+127,Sofia Pinto,25,M,2023-05-19,58.58,5,Cerveja IPA/NOVA LIMA
+128,Enzo Gabriel da Rosa,20,F,2023-06-01,104.92,12,Cerveja Pilsen BARRIL 1
+129,Theodoro Garcia,49,M,2023-12-19,89.31,17,Cerveja IPA/NOVA LIMA
+130,Lorena Viana,25,M,2023-05-11,88.01,18,Cerveja IPA/NOVA LIMA
+131,Beatriz Jesus,49,M,2023-10-15,109.55,3,Cerveja IPA/NOVA LIMA
+132,Vitória Mendes,53,M,2023-01-24,132.35,10,Cerveja Weiss
+133,Matteo Pereira,27,F,2023-02-23,110.78,8,Cerveja Pilsen BARRIL 1
+134,Yuri Cirino,19,M,2023-08-07,73.14,8,Cerveja IPA/NOVA LIMA
+135,Gael Moreira,20,M,2023-02-13,133.07,11,Cerveja Weiss
+136,Pietra Borges,53,M,2023-11-11,76.06,11,Cerveja Weiss
+137,Caio Campos,19,M,2023-12-08,79.72,1,Cerveja IPA/NOVA LIMA
+138,Cecilia Cirino,40,M,2023-09-30,71.43,1,Cerveja Lager
+139,Eloá Gomes,30,F,2023-09-28,122.06,3,Cerveja Weiss
+140,Kevin Cavalcanti,21,F,2023-07-14,98.02,14,Cerveja Weiss
+141,Brayan Ramos,52,F,2023-08-10,53.62,11,Cerveja IPA/NOVA LIMA
+142,Marina Oliveira,27,M,2023-10-14,144.8,14,Cerveja Lager
+143,Aurora Macedo,51,F,2023-07-14,91.57,1,Cerveja Weiss
+144,Stella Pimenta,39,M,2023-12-08,96.68,13,Cerveja Lager
+145,Juan Rios,53,F,2023-03-08,71.45,4,Cerveja Stout
+146,Olívia Andrade,23,F,2023-01-18,69.46,20,Cerveja Pilsen BARRIL 1
+147,Miguel Andrade,35,M,2023-05-24,96.84,15,Cerveja IPA/NOVA LIMA
+148,Alana Rios,49,F,2023-09-20,97.89,18,Cerveja IPA/NOVA LIMA
+149,Natália Nunes,45,M,2023-05-16,90.06,4,Cerveja Weiss
+150,Camila Araújo,34,F,2023-02-05,92.1,16,Cerveja Weiss
+151,Manuella Rezende,27,M,2023-10-15,58.12,4,Cerveja Pilsen BARRIL 1
+152,Ryan Vargas,50,M,2023-07-01,128.45,1,Cerveja Lager
+153,Agatha Martins,30,F,2023-01-19,137.73,8,Cerveja Stout
+154,Yuri da Paz,40,F,2023-12-24,63.74,5,Cerveja Stout
+155,Ana Garcia,26,M,2023-01-13,65.09,19,Cerveja Stout
+156,Thales Azevedo,55,M,2023-09-04,98.08,13,Cerveja IPA/NOVA LIMA
+157,Ravi Sampaio,43,M,2023-01-04,119.97,8,Cerveja Pilsen BARRIL 1
+158,Benicio Campos,41,F,2023-01-20,82.87,14,Cerveja Stout
+159,Nicolas Sampaio,35,F,2023-05-21,57.25,14,Cerveja Pilsen BARRIL 1
+160,Arthur Gabriel Cardoso,30,F,2023-08-24,112.35,16,Cerveja Stout
+161,Nicole Teixeira,24,M,2023-02-26,127.17,5,Cerveja Lager
+162,João Miguel Mendonça,40,F,2023-01-18,133.11,10,Cerveja Lager
+163,Evelyn Dias,34,M,2023-04-09,94.57,4,Cerveja Stout
+164,Jade Pimenta,19,F,2023-07-16,104.66,18,Cerveja Lager
+165,Clarice Campos,20,M,2023-01-05,126.07,3,Cerveja Lager
+166,Nicolas Camargo,19,F,2023-07-05,51.81,17,Cerveja Pilsen BARRIL 1
+167,Emanuel Nunes,37,F,2023-10-20,104.04,8,Cerveja IPA/NOVA LIMA
+168,Eloá Vargas,24,F,2023-12-12,81.1,19,Cerveja IPA/NOVA LIMA
+169,Clarice Mendonça,48,F,2023-01-18,80.96,14,Cerveja Weiss
+170,Nina Gomes,46,M,2023-06-30,145.0,13,Cerveja Lager
+171,Yuri Duarte,39,M,2023-11-07,134.7,11,Cerveja Pilsen BARRIL 1
+172,Letícia Pacheco,23,F,2023-11-03,117.8,11,Cerveja Stout
+173,Davi Miguel Ramos,40,M,2023-06-01,89.3,6,Cerveja Stout
+174,Leandro da Luz,41,M,2023-11-26,66.25,3,Cerveja Pilsen BARRIL 1
+175,Lucas Gabriel Freitas,30,M,2023-02-19,50.81,1,Cerveja Pilsen BARRIL 1
+176,Maria Julia Pimenta,39,F,2023-08-12,71.21,2,Cerveja Stout
+177,Maria Sophia Rios,30,F,2023-12-17,115.17,15,Cerveja IPA/NOVA LIMA
+178,Gustavo Henrique da Mota,49,M,2023-05-14,87.5,10,Cerveja Pilsen BARRIL 1
+179,Stephany Souza,33,F,2023-04-25,132.3,6,Cerveja IPA/NOVA LIMA
+180,Ana Luiza Ramos,55,M,2023-03-05,121.08,20,Cerveja Weiss
+181,Gustavo Henrique Viana,53,F,2023-03-23,136.36,17,Cerveja Weiss
+182,Mariana Vasconcelos,41,F,2023-12-29,140.02,5,Cerveja Stout
+183,Fernando Abreu,49,M,2023-04-05,114.11,20,Cerveja IPA/NOVA LIMA
+184,Gustavo da Cruz,27,M,2023-01-02,104.05,10,Cerveja Pilsen BARRIL 1
+185,Diego Pereira,29,F,2023-04-21,58.73,8,Cerveja Lager
+186,Otávio Lopes,50,F,2023-01-21,55.02,6,Cerveja Weiss
+187,Gael Henrique Nascimento,36,M,2023-08-30,129.51,18,Cerveja Pilsen BARRIL 1
+188,Isabella da Rosa,47,F,2023-10-09,112.76,2,Cerveja IPA/NOVA LIMA
+189,Isis Santos,23,F,2023-08-09,50.48,2,Cerveja Pilsen BARRIL 1
+190,Aurora Brito,45,F,2023-02-03,64.17,20,Cerveja Weiss
+191,Bryan Sampaio,55,F,2023-05-14,61.04,3,Cerveja Weiss
+192,Paulo Pires,19,F,2023-07-29,78.43,19,Cerveja Weiss
+193,Gael Moreira,49,F,2023-07-07,121.7,17,Cerveja IPA/NOVA LIMA
+194,Carlos Eduardo Ferreira,29,M,2023-04-16,109.06,3,Cerveja Stout
+195,Ana Sophia da Luz,22,M,2023-01-30,88.56,11,Cerveja Lager
+196,Davi Lucca da Mota,47,M,2023-03-12,55.06,18,Cerveja Weiss
+197,Beatriz Freitas,54,M,2023-12-04,134.01,12,Cerveja Weiss
+198,Ana Souza,32,F,2023-03-20,79.4,4,Cerveja Stout
+199,Isis Aragão,21,F,2023-01-09,63.71,19,Cerveja Weiss
+200,Davi Lucas Ribeiro,47,F,2023-11-21,127.31,20,Cerveja Pilsen BARRIL 1
